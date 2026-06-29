@@ -1,8 +1,8 @@
-# 🚀 Hi, I'm Kamlesh Shinde 
+# Hi, I'm Kamlesh Shinde 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=20+yo+Programming+Enthusiast+%F0%9F%A7%A0;Full-Stack+Java+Developer+%E2%98%95;Flutter+Developer+%F0%9F%A6%8B;Building+epic+stuff+since+day+1;From+India+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Programming+Enthusiast+%F0%9F%A7%A0;Web+Developer+%E2%98%95;;Building+epic+stuff+since+day+1;From+India+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -10,23 +10,26 @@
 
 ---
 
-<div align="center">
+<div >
 
 ### 💫 About Me
 ```javascript
-const kamlesh = {
-    age: 21,
-location   : Pune, India 🇮🇳
-education  : B.E CSE @ D Y Oatil collage of engg, Akurdi — CGPA 8.6
-interests  : Full Stack Dev · Cloud · System Design · Open Source
-certifications:
-  - NPTEL Java (94%) · NPTEL C & Assembly Language
-  - Oracle Cloud Infrastructure 2025
-  - Deloitte Technology Job Simulation
-  - TCS iON Career Edge
-    
-};
 
+    name     : "Kamlesh Shinde",
+    location : "Maharashtra, India 🇮🇳",
+    education: "B.E Computer Engineering",
+    learning : [
+                 "Docker",
+                 "Backend Development",
+                 "DSA"
+               ],
+    languages: [
+                 "C++",
+                 "Python",
+                 "Java"
+                ],
+    goal: "Become a Software Engineer"
+}
 console.log("Welcome to my digital realm! 🌟");
 ```
 
@@ -44,22 +47,17 @@ console.log("Welcome to my digital realm! 🌟");
 
 ### 💻 Languages I Speak Fluently
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,dart,js" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 </p>
 
 ### 🛠️ Frameworks & Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,spring,android" />
-</p>
-
-### 🎨 Design & Creative Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,figma" />
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql,mongodb" /> 
 </p>
 
 ### ⚡ Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,mysql" />
 </p>
 
 </div>
@@ -162,16 +160,16 @@ console.log("Welcome to my digital realm! 🌟");
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f2b8.gif" width="100">
 
 <p align="center">
-<a href="https://linkedin.com/in/atharva-jagtap112">
+<a href="https://linkedin.com/in/kamlesh-shinde-57b35b283">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse" />
 </a>
-<a href="https://instagram.com/_heyatharva">
+<a href="https://instagram.com/kamlesh_shinde162">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animate=pulse" />
 </a>
-<a href="https://www.leetcode.com/_Heyatharva">
+<a href="https://www.leetcode.com/kamlesh162">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&animate=pulse" />
 </a>
-<a href="mailto:atharvacjagtap2005@gmail.com">
+<a href="mailto:kamleshshinde162@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animate=pulse" />
 </a>
 </p>
@@ -182,17 +180,12 @@ console.log("Welcome to my digital realm! 🌟");
 
 <div align="center">
 
-### 💭 Daily Dose of Dev Wisdom
+💡 Quote of the Day
 
-<img src="https://user-images.githubusercontent.com/74038190/212284152-2f495a74-c8c0-46c9-b64c-20c7e8b1b894.gif" width="100">
+"First, solve the problem. Then, write the code."
+— John Johnson
 
-<div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-> *"Dynamic Programming is just careful brute force with memoization"* - **Steven Skiena**
-> 
-> *"The key insight of dynamic programming is to avoid recomputing the same subproblems over and over again"* - **Programming Wisdom**
-
-</div>
+⭐ Thanks for visiting my profile!
 
 </div>
 
