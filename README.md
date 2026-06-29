@@ -1,14 +1,17 @@
 # Hi, I'm Kamlesh Shinde 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Kamlesh%20Shinde&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=Software%20Engineer%20|%20Backend%20Developer&descSize=22&descAlignY=62&animation=twinkling"/>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Programming+Enthusiast+%F0%9F%A7%A0;Web+Developer+%E2%98%95;;Building+epic+stuff+since+day+1;From+India+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 ---
+<div align="center">
+
+
+</div>
 
 <div >
 
@@ -66,9 +69,6 @@ console.log("Welcome to my digital realm! 🌟");
 
 <div align="center">
 
-## 🎯 What I'm About
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
