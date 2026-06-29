@@ -16,9 +16,14 @@
 ```javascript
 const kamlesh = {
     age: 21,
-    location: "India 🇮🇳",
-    title: "Computer engg Student",
-    passion: "Programming",
+location   : Pune, India 🇮🇳
+education  : B.E CSE @ D Y Oatil collage of engg, Akurdi — CGPA 8.6
+interests  : Full Stack Dev · Cloud · System Design · Open Source
+certifications:
+  - NPTEL Java (94%) · NPTEL C & Assembly Language
+  - Oracle Cloud Infrastructure 2025
+  - Deloitte Technology Job Simulation
+  - TCS iON Career Edge
     
 };
 
