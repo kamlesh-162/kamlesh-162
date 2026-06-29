@@ -1,39 +1,40 @@
-# Hi, I'm Kamlesh Shinde 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Kamlesh%20Shinde&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=Software%20Engineer%20|%20Backend%20Developer&descSize=22&descAlignY=62&animation=twinkling"/>
+<div align="center">
+
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="700" height="250">
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde%20&fontColor=FFFFF&fontSize=60&fontAlignX=10animation=twinkling"/>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Programming+Enthusiast+%F0%9F%A7%A0;Web+Developer+%E2%98%95;;Building+epic+stuff+since+day+1;From+India+with+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=04ABF7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kamlesh+Shinde+%F0%9F%91%8B;Programming+Enthusiast+%F0%9F%A7%A0;Problem+Solving+%F0%9F%A7%A9;Building+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;From+India+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 
 </div>
 
 ---
-<div align="center">
 
 
-</div>
 
 <div >
 
 ### 💫 About Me
 ```javascript
 
-    name     : "Kamlesh Shinde",
-    location : "Maharashtra, India 🇮🇳",
-    education: "B.E Computer Engineering",
-    learning : [
+    Name     : "Kamlesh Shinde",
+    Location : "Maharashtra, India 🇮🇳",
+    Education: "B.E Computer Engineering",
+    Learning : [
                  "Docker",
                  "Backend Development",
                  "DSA"
                ],
-    languages: [
+    Languages: [
                  "C++",
                  "Python",
                  "Java"
                 ],
-    goal: "Become a Software Engineer"
+    Goal: "Become a Software Engineer"
 }
-console.log("Welcome to my digital realm! 🌟");
+
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -44,48 +45,30 @@ console.log("Welcome to my digital realm! 🌟");
 
 <div align="center">
 
-## 🔥 My Tech Arsenal
+## 🔥 Tech Stack
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### 💻 Languages I Speak Fluently
+
+
+
+### 💻 Languages 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 </p>
 
-### 🛠️ Frameworks & Tech Stack
+### 🛠️ Web Development
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,flask,mysql,mongodb" /> 
 </p>
 
-### ⚡ Development Tools
+### ⚡  Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,mysql" />
 </p>
 
 </div>
 
----
-
-<div align="center">
-
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Wrapped 2024
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvajagtap112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvajagtap112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9"/>
-</div>
-
-</div>
 
 ---
 
@@ -95,21 +78,14 @@ console.log("Welcome to my digital realm! 🌟");
 
 <img src="https://user-images.githubusercontent.com/74038190/212284113-0a86afe8-4834-4ece-9031-95a5c5b5d4e5.gif" width="100">
 
-<img src="https://github-profile-trophy.vercel.app/?username=atharvajagtap112&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kamlesh-162&theme=tokyonight&no-frame=true&margin-w=15"/>
+
 
 </div>
 
 ---
 
-<div align="center">
 
-## 📈 Contribution Heat Map
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-
-[![Atharva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharvajagtap112&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
