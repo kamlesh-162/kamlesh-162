@@ -143,16 +143,7 @@ Languages: [
 
 </div>
 
----
 
-<div align="center">
-
-## 🎨 Fun Animations & Interactive Elements
-
-<img src="https://user-images.githubusercontent.com/74038190/212284149-d8d8c22f-5a34-4d8f-a7e7-b3b9c4effc3f.gif" width="400">
-
-
-</div>
 
 
 
