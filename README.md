@@ -19,19 +19,19 @@
 ### 💫 About Me
 ```javascript
 const kamlesh = {
-    location : "Maharashtra, India 🇮🇳",
-    education: "B.E Computer Engineering",
-    learning : [
-        "Docker",
-        "Backend Development",
-        "DSA"
-    ],
-    languages: [
-        "C++",
-        "Python",
-        "Java"
-    ],
-    goal     : "Become a Software Engineer"
+location : "Maharashtra, India 🇮🇳",
+education: "B.E Computer Engineering",
+learning : [
+             "Docker",
+             "Backend Development",
+             "DSA"
+           ],
+languages: [
+             "C++",
+             "Python",
+             "Java"
+           ],
+goal     : "Become a Software Engineer"
 }
 
 ```
@@ -100,7 +100,11 @@ const kamlesh = {
 <div align="center">
 
 # 📊 GitHub Analytics
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" ><div align="center">
 
+</div>
+</div>
 <br>
 
 [![kamlesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlesh-162&bg_color=0d1117&color=22d3ee&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
