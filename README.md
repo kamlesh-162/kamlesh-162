@@ -1,9 +1,6 @@
-<div align="center">
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="800" height="250">
-</div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde%20&fontColor=FFFFF&fontSize=60&fontAlignX=10animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde%20&fontColor=FFFFF&fontSize=60&fontAlignY=35&animation=twinkling"/>
 
   </div>
 <div align="center">
@@ -21,22 +18,21 @@
 
 ### 💫 About Me
 ```javascript
-
-Name     : "Kamlesh Shinde",
-Location : "Maharashtra, India 🇮🇳",
-Education: "B.E Computer Engineering",
-Learning : [
-                 "Docker",
-                 "Backend Development",
-                 "DSA"
-           ],
-Languages: [
-                 "C++",
-                 "Python",
-                 "Java"
-           ],
-    Goal: "Become a Software Engineer"
-
+const kamlesh = {
+    location : "Maharashtra, India 🇮🇳",
+    education: "B.E Computer Engineering",
+    learning : [
+        "Docker",
+        "Backend Development",
+        "DSA"
+    ],
+    languages: [
+        "C++",
+        "Python",
+        "Java"
+    ],
+    goal     : "Become a Software Engineer"
+}
 
 ```
 
@@ -94,6 +90,10 @@ Languages: [
 <div align="center">
 
 ## 🔥 Current Streak & Stats
+<div align="center">
+
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="100%" height="200">
+</div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://streak-stats.demolab.com/?user=kamlesh-162&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
@@ -104,7 +104,24 @@ Languages: [
 </div>
 
 ---
+<div align="center">
 
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="120" alt="Hacker Terminal Animation">
+</div>
+
+<br><br>
+
+[![kamlesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlesh-162&bg_color=0d1117&color=22d3ee&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
+
+---
 
 
 <div align="center">
@@ -140,6 +157,7 @@ Languages: [
 — John Johnson
 
 ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:00C9FF,100:92FE9D"/>
 
 </div>
 
