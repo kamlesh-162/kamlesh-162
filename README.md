@@ -68,7 +68,7 @@ Languages: [
 
 ### ⚡  Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 </p>
 
 </div>
