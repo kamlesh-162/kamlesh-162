@@ -72,16 +72,7 @@ const kamlesh = {
 
 ---
 
-<div align="center">
 
-## 🏆 Achievement Unlocked
-
-<img src="https://user-images.githubusercontent.com/74038190/212284113-0a86afe8-4834-4ece-9031-95a5c5b5d4e5.gif" width="100">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamlesh-162&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-
-</div>
 
 ---
 
@@ -110,11 +101,7 @@ const kamlesh = {
 
 # 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="120" alt="Hacker Terminal Animation">
-</div>
-
-<br><br>
+<br>
 
 [![kamlesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlesh-162&bg_color=0d1117&color=22d3ee&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -122,7 +109,6 @@ const kamlesh = {
 </div>
 
 ---
-
 
 <div align="center">
 
