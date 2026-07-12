@@ -18,21 +18,13 @@
 
 ### 💫 About Me
 ```javascript
-const kamlesh = {
+name     : "Kamlesh shinde",
 location : "Maharashtra, India 🇮🇳",
 education: "B.E Computer Engineering",
-learning : [
-             "Docker",
-             "Backend Development",
-             "DSA"
-           ],
-languages: [
-             "C++",
-             "Python",
-             "Java"
-           ],
-goal     : "Become a Software Engineer"
-}
+learning : "Backend Development", "DSA", "OOP" ,
+languages: "C++", "Python", "Java"  ,
+
+
 
 ```
 
@@ -47,27 +39,19 @@ goal     : "Become a Software Engineer"
 
 ## 🔥 Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-
-
-
 ### 💻 Languages 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 </p>
 
-### 🛠️ Web Development
+### 🛠️ Web Development & ⚡  Tools
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql,mongodb,tailwind" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql,mongodb,tailwind,git,github,docker" /> 
+ 
 </p>
 
-### ⚡  Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
-</p>
 
-</div>
+
 
 
 ---
@@ -82,6 +66,9 @@ goal     : "Become a Software Engineer"
 
 ## 🔥 Current Streak & Stats
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" ><div align="center">
+
+[![kamlesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlesh-162&bg_color=0d1117&color=22d3ee&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="100%" height="200">
 </div>
@@ -90,7 +77,7 @@ goal     : "Become a Software Engineer"
   <img src="https://streak-stats.demolab.com/?user=kamlesh-162&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" ><div align="center">
 
 </div>
 
@@ -99,18 +86,6 @@ goal     : "Become a Software Engineer"
 
 <div align="center">
 
-# 📊 GitHub Analytics
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" ><div align="center">
-
-</div>
-</div>
-<br>
-
-[![kamlesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlesh-162&bg_color=0d1117&color=22d3ee&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-</div>
 
 ---
 
@@ -124,9 +99,7 @@ goal     : "Become a Software Engineer"
 <a href="https://linkedin.com/in/kamlesh-shinde-57b35b283">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse" />
 </a>
-<a href="https://instagram.com/kamlesh_shinde162">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animate=pulse" />
-</a>
+
 <a href="https://www.leetcode.com/kamlesh162">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&animate=pulse" />
 </a>
