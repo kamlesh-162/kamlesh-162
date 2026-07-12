@@ -52,12 +52,6 @@ languages: "C++", "Python", "Java"  ,
 
 
 
-
-
----
-
-
-
 ---
 
 
@@ -70,7 +64,7 @@ languages: "C++", "Python", "Java"  ,
 
 [![kamlesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kamlesh-162&bg_color=0d1117&color=22d3ee&line=6366f1&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="100%" height="200">
+<img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/grid.gif" width="500%" height="200">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
