@@ -1,17 +1,15 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35&animation=twinkling" width="100%"/>
-
+  
   </div>
+  
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=04ABF7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kamlesh+Shinde+%F0%9F%91%8B;Programming+Enthusiast+%F0%9F%A7%A0;Problem+Solving+%F0%9F%A7%A9;Building+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;From+India+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=04ABF7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kamlesh+Shinde+%F0%9F%91%8B;Programming+Enthusiast+%F0%9F%A7%A0;Problem+Solving+%F0%9F%A7%A9;Building+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;From+India+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 
 </div>
-
----
-
 
 
 <table>
