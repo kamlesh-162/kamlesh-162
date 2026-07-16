@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde%20&fontColor=FFFFF&fontSize=60&fontAlignY=35&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6C63FF,25:00C9FF,50:00E5FF,75:00FFB3,100:92FE9D&text=Hi,%20I'm%20Kamlesh%20Shinde%20&fontColor=FFFFFF&fontSize=35&fontAlignY=35&animation=twinkling" width="100%"/>
 
   </div>
 <div align="center">
@@ -14,26 +14,25 @@
 
 
 
-<div >
-
+<table>
+<tr>
+<td width="400">
+  <img src="ascii-art1.svg" width="100%">
+</td>
+<td valign="top">
 
 ### 💫 About Me
 ```javascript
-name     : "Kamlesh shinde",
+name     : "Kamlesh Shinde",
 location : "Maharashtra, India 🇮🇳",
 education: "B.E Computer Engineering",
-learning : "Backend Development", "DSA", "OOP" ,
-languages: "C++", "Python", "Java"  ,
-
-
-
+learning : ["Backend Development", "DSA", "OOP"],
+languages: ["C++", "Python", "Java"],
 ```
-</div>
-<!-- <div align="left" width="50%">
 
-![ASCII art](ascii-art.svg)
-
-</div> -->
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" >
