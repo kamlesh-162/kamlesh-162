@@ -14,10 +14,7 @@
 
 <table>
 <tr>
-<td width="400">
-  <img src="download_ascii_w45.svg" width="100%">
-</td>
-<td valign="top">
+
 
 ### 💫 About Me
 ```javascript
