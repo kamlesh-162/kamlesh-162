@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="400">
-  <img src="batman_ascii.svg" width="100%">
+  <img src="download_ascii_w45.svg" width="100%">
 </td>
 <td valign="top">
 
